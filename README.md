@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yaelahpull
-- 👀 I’m interested in Javascript and PHP
-- 🌱 I’m currently learning React and Laravel
+- 👀 I’m interested in Javascript and 
+- 🌱 I’m currently learning Docker and Kubernetes
 - 📫 How to reach me yogatama2302@gmail.com
 
 <!---
