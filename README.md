@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yaelahpull
+- 👋 Hi, I’m Yoga Pratama
 - 👀 I’m interested in Javascript and 
 - 🌱 I’m currently learning Docker and Kubernetes
 - 📫 How to reach me yogatama2302@gmail.com
